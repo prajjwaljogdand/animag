@@ -1,4 +1,4 @@
-# prajjwaljogdand.github.io
+# animag
 # WEBHACK 1.0 2021 
 # web design competation 
 # IIIT KOTTAYAM 
